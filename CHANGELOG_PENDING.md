@@ -18,4 +18,6 @@
 
 ### IMPROVEMENTS
 
+- []() Add public API `BlockStore.Rollback`.
+
 ### BUG FIXES
